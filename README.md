@@ -2,7 +2,7 @@
 
 **Chameleon: Benchmarking Detection and Backtracking on Commercial-Grade AI-Generated Videos**
 
-Xingming Liao · Meiyu Zeng · Canyu Chen · Nankai Lin · Zhuowei Wang · Aimin Yang  
+Xingming Liao · Meiyu Zeng · Canyu Chen · Nankai Lin · Zhuowei Wang · Aimin Yang<br />
 Guangdong University of Technology · ICMR 2026
 
 ## Overview
