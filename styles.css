@@ -57,11 +57,32 @@ a:hover { text-decoration: underline; }
 .nav-brand:hover { text-decoration: none; }
 
 .nav-github {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
   color: var(--text);
   font-size: .9rem;
 }
 
 .nav-github:hover { color: var(--link); }
+
+.nav-icon,
+.button-icon {
+  width: 1.05em;
+  height: 1.05em;
+  flex: 0 0 auto;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.7;
+}
+
+.nav-icon-fill,
+.button-icon-fill {
+  fill: currentColor;
+  stroke: none;
+}
 
 .publication-header { padding: 3.75rem 0 2.75rem; }
 
